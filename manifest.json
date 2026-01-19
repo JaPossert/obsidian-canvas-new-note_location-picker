@@ -1,0 +1,10 @@
+{
+	"id": "canvas-note-same-folder",
+	"name": "Canvas Note Same Folder",
+	"version": "0.0.1",
+	"minAppVersion": "1.5.0",
+	"description": "Automatically places new notes created from Canvas views into a folder named 'elements-of_{canvas_name}' at the same level as the canvas file. Fixes the issue where Canvas-created notes default to vault root instead of respecting folder structure.",
+	"author": "Jakob",
+	"authorUrl": "",
+	"isDesktopOnly": false
+}
