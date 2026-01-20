@@ -1,7 +1,10 @@
 # Canvas Note Same Folder
 
-An Obsidian plugin that automatically organizes notes created from Canvas views into a dedicated folder structure.
+An Obsidian plugin that automatically organizes notes created from Canvas views into the folder on the same level as the canvas.
 
+See explanation video:
+[https://drive.proton.me/urls/GKKCX2QHK8#Ouwo12AWBAjO
+](url)
 ## Description
 
 When you create a new note from within an Obsidian Canvas (via wiki links like `[[New Note]]` or by adding new cards), this plugin automatically places it into a folder named `elements-of_{canvas_name}` at the same level as the canvas file.
@@ -69,3 +72,4 @@ v0.0.1_1
 ## License
 
 MIT
+
